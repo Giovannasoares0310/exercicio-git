@@ -1,0 +1,10 @@
+C:\Users\white\source\repos\Exercícios\Exercícios\bin\Debug\Exercícios.exe.config
+C:\Users\white\source\repos\Exercícios\Exercícios\bin\Debug\Exercícios.exe
+C:\Users\white\source\repos\Exercícios\Exercícios\bin\Debug\Exercícios.pdb
+C:\Users\white\source\repos\Exercícios\Exercícios\obj\Debug\Exercícios.csproj.AssemblyReference.cache
+C:\Users\white\source\repos\Exercícios\Exercícios\obj\Debug\Exercícios.Form1.resources
+C:\Users\white\source\repos\Exercícios\Exercícios\obj\Debug\Exercícios.Properties.Resources.resources
+C:\Users\white\source\repos\Exercícios\Exercícios\obj\Debug\Exercícios.csproj.GenerateResource.cache
+C:\Users\white\source\repos\Exercícios\Exercícios\obj\Debug\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\Exercícios\Exercícios\obj\Debug\Exercícios.exe
+C:\Users\white\source\repos\Exercícios\Exercícios\obj\Debug\Exercícios.pdb
